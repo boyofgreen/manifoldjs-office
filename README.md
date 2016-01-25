@@ -1,2 +1,2 @@
-# manifoldjs-office
-Manifoldjs:  fold for Office Add ins.
+# manifoldjs-firefox
+ManifoldJS Firefox OS Platform
