@@ -8,7 +8,7 @@
 <DefaultLocale>{defaultLocale}</DefaultLocale> 
 <DisplayName DefaultValue="{displayName}"/> 
 <Description DefaultValue="{description}"/> 
- <IconUrl DefaultValue="{iconURL}" />
+ {iconURL}
 <Hosts> 
   <Host Name="Document"/> 
   <Host Name="Workbook"/> 
