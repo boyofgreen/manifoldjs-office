@@ -39,12 +39,5 @@
   "bugs": {
     "url": "https://github.com/boyofgreen/manifoldjs-office/issues"
   },
-  "homepage": "https://github.com/boyofgreen/manifoldjs-office",
-  "gitHead": "a12672f46caf493d6a6d7c18a445257403a65606",
-  "readme": "# manifoldjs-firefox\r\nManifoldJS Firefox OS Platform\r\n",
-  "readmeFilename": "README.md",
-  "_id": "manifoldjs-office@0.0.1",
-  "_shasum": "b604d9d7209b997ed8b2b48a7038a048558ee730",
-  "_from": "https://github.com/boyofgreen/manifoldjs-office.git",
-  "_resolved": "https://github.com/boyofgreen/manifoldjs-office.git#a12672f46caf493d6a6d7c18a445257403a65606"
-}
+  "homepage": "https://github.com/boyofgreen/manifoldjs-office"
+  }
