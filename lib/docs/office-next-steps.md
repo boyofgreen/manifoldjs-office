@@ -2,7 +2,7 @@
 
 ## Test
 
-1. Log into the office web apps at [http://office.com}(office.com) and open either Word, PowerPoint or Excel.
+1. Log into the office web apps at [http://office.com](office.com) and open either Word, PowerPoint or Excel.
 
 2. Open a new or existing document, then Insert > office-add in.  The choose "upload my add-in" and navigate to your new office manifest.
 3. Hit okay, and your office add-in will load.
