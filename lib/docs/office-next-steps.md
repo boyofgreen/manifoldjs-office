@@ -2,28 +2,28 @@
 
 ## Test
 
-1. Log into 
+1. Log into the office web apps at [http://office.com}(office.com) and open either Word, PowerPoint or Excel.
 
-2. To test your application on a device, download the ManifoldJS test harness from the Store, and follow the directions. _Coming soon!_
+2. Open a new or existing document, then Insert > office-add in.  The choose "upload my add-in" and navigate to your new office manifest.
+3. Hit okay, and your office add-in will load.
 
-3. To test locally:
+> **Note:** Looking for some debugging tools that work on all your platforms? Try [Vorlon.js](http://www.vorlonjs.com/). It makes mobile testing a breeze, and works inside the app ManifoldJS apps, now supporting office ad-ins!
 
-	1. Find the FF manifest in the "firefox" folder and upload to your website.
-
-	2. Adjust the headers of your .webapp file type as seen [here](https://developer.mozilla.org/en-US/Apps/Build/Manifest#Serving_manifests).
-
-	3. Open the developer tools from within the Firefox browser. Open Firefox WebIDE, and select "open hosted app". You will be prompted for the address of your manifest.
-
-	4. Load simulator for FF OS.
-
-> **Note:** Looking for some debugging tools that work on all your platforms? Try [Vorlon.js](http://www.vorlonjs.com/). It makes mobile testing a breeze, and works inside the app ManifoldJS apps.
 
 ## Submit to Store
 
-1. Find the FF manifest in the "firefox" folder and upload to your website.
+1. Sign in to the Seller Dashboard with your Microsoft account.
 
-2. Adjust the headers of your .webapp file type as seen [here](https://developer.mozilla.org/en-US/Apps/Build/Manifest#Serving_manifests).
+2. On the manage tab, choose add a new app.
 
-3. Create a [Firefox OS dev account](https://marketplace.firefox.com/developers/submit/).
+3. On the listing type page, choose the item under Office Types that matches your submission.
 
-4. Submit your site to the store [here](https://marketplace.firefox.com/developers/submit/).
+4. If you are creating an app or add-in for the store for the first time, an agreement appears. Under marketplace terms and conditions, read the agreement, and if you agree, select the check box, and then choose NEXT.
+
+5. Complete requested info and upload your manifest.
+
+Detailed submission info can be found [here](https://msdn.microsoft.com/en-us/library/office/jj220033.aspx)
+
+
+
+> **note** more info about building office web apps can be found at: [https://msdn.microsoft.com/EN-US/library/office/fp161044.aspx](https://msdn.microsoft.com/EN-US/library/office/fp161044.aspx)
