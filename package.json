@@ -4,7 +4,7 @@
   "description": "Manifoldjs Office Add in platform",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boyofgreen/manifoldjs-office.git"
+    "url": "git+https://github.com/manifoldjs/manifoldjs-office.git"
   },
   "engines": {
     "node": ">=0.12.0"
@@ -19,7 +19,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/manifoldjs/manifoldjs-firefox/blob/master/LICENSE.txt"
+      "url": "https://github.com/manifoldjs/manifoldjs-office/blob/master/LICENSE.txt"
     }
   ],
   "keywords": [
@@ -32,12 +32,12 @@
     "Office Apps"
   ],
   "dependencies": {
-    "manifoldjs-lib": "git://github.com/manifoldjs/manifoldjs-lib.git",
+    "manifoldjs-lib": "^0.1.0",
     "request": "^2.53.0"
   },
   "devDependencies": {},
   "bugs": {
-    "url": "https://github.com/boyofgreen/manifoldjs-office/issues"
+    "url": "https://github.com/manifoldjs/manifoldjs-office/issues"
   },
-  "homepage": "https://github.com/boyofgreen/manifoldjs-office"
+  "homepage": "https://github.com/manifoldjs/manifoldjs-office"
   }
