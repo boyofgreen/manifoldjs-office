@@ -1,6 +1,6 @@
 {
   "name": "manifoldjs-office",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Manifoldjs Office Add in platform",
   "repository": {
     "type": "git",
@@ -32,7 +32,7 @@
     "Office Apps"
   ],
   "dependencies": {
-    "manifoldjs-lib": "^0.1.0",
+    "manifoldjs-lib": "^0.1.1",
     "request": "^2.53.0"
   },
   "devDependencies": {},
