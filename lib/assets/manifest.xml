@@ -12,6 +12,7 @@
 <Hosts> 
   <Host Name="Document"/> 
   <Host Name="Workbook"/> 
+  <Host Name = "Presentation"/>
 </Hosts>
    <AppDomains>
     {appDomain}
